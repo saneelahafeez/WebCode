@@ -1,2 +1,0 @@
-# WebCode
-Projekt2
